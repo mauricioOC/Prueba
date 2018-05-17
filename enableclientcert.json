@@ -1,0 +1,7 @@
+//json file
+{
+    "location": "East US",
+    "properties": {
+        "clientCertEnabled": false
+    }
+}
